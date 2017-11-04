@@ -3606,10 +3606,10 @@ img.mobile1 {
 }
 
 .blog-leftr p {
-    font-size: 14px;
-    color: #999;
+    font-size: 16px;
+    color: #403c3c;
     margin: 1em 0 0;
-    line-height: 1.8em;
+    line-height: 1.2em;
 }
 
 .blog-leftr ul {
@@ -5197,4 +5197,9 @@ img.mobile1 {
     height: 69px;
     padding: .2em;
     margin-bottom: 0 !important;
+}
+
+.no-mp {
+    margin: 0 !important;
+    padding: 0 !important;
 }
